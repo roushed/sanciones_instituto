@@ -1,0 +1,42 @@
+.cuadrito{
+
+    background-color:#030552;
+    position: absolute;
+    top: 30%;
+    left: 37%;
+    padding: 50px 90px;
+    color: white;
+    
+    
+}
+
+.cuadrito a{
+
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 12px;
+}
+
+.cuadrito a:hover{
+
+    color: #7176F0; 
+}
+
+.cuadrito p{
+
+
+    margin: 30px;
+}
+
+body{
+    background-color: #9092DF;
+}
+
+
+
+.is{
+
+    color: #9092DF;
+    font-size: 16px;
+}

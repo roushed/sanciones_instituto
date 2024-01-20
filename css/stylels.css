@@ -1,0 +1,52 @@
+.cuadrito{
+
+    background-color:#030552;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    padding: 35px 70px;
+    color: black;
+    text-align: center;
+   
+    
+    
+}
+p{
+ margin: 12px;
+ color: white;
+
+}
+p a{
+
+    color: grey;
+    text-decoration: none;
+}
+
+
+
+h3{
+    color: grey;
+}
+
+table{
+
+    background-color: white;
+    padding: 12px;
+}
+
+table th{
+
+    background-color:#030552;
+    color: white;
+}
+
+table td{
+
+    padding: 8px;
+}
+
+body{
+    background-color: #9092DF;
+}
+
+

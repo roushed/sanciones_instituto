@@ -1,0 +1,25 @@
+.cuadrito{
+
+    background-color:#030552;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    padding: 50px 120px;
+    color: #B7B8D3;
+    text-align: center;
+    
+    
+    
+}
+
+.cuadrito a{
+
+    color: #B7B8D3;
+    text-decoration: none;
+}
+
+
+
+body{
+    background-color: #9092DF;
+}
